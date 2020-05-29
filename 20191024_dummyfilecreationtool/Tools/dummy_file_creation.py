@@ -494,7 +494,8 @@ def main():
 
     dummylabelcreation()
     dummycallbackcreation()
-    plib.dplib.text_file_process.convert_ending_line_format("Yes")
+    #plib.dplib.text_file_process.convert_ending_line_format("Yes")
+    plib.dplib.text_file_process.convert_ending_line_format("No")
     return()
 
 #==================================== The start of point ===============================
